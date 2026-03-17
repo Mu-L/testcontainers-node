@@ -1,6 +1,6 @@
 {
   "name": "@testcontainers/oraclefree",
-  "version": "11.12.0",
+  "version": "11.13.0",
   "license": "MIT",
   "keywords": [
     "oracle",
@@ -30,10 +30,10 @@
     "build": "tsc --project tsconfig.build.json"
   },
   "dependencies": {
-    "testcontainers": "^11.12.0"
+    "testcontainers": "^11.13.0"
   },
   "devDependencies": {
-    "oracledb": "^6.10.0",
-    "@types/oracledb": "^6.10.0"
+    "@types/oracledb": "^6.10.0",
+    "oracledb": "^6.10.0"
   }
 }
